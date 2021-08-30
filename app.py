@@ -8,14 +8,14 @@ from PIL import ImageFont
 import bs4
 import requests
 import urllib
-bot_token = "your bot HTTPS token by BotFather"
-bot_user_name = "your bot username"
-URL = "your heroku app url"
+bot_token = "1570074278:AAG4e6LGkHIGEsQA3ov-k_LRG54L1sZaE8Q"
+bot_user_name = "Tjhhhrbabot"
+URL = "https://dmbbbbhjiu.herokuapp.com/"
 
-consumer_key = 'consumer_key'
-consumer_secret = 'consumer_secret'
-access_token = 'access_token'
-access_token_secret = 'access_token_secret'
+consumer_key = 'SBEyu3zjgw0z0W3WdgpOkibf0'
+consumer_secret = '1NbmlGyzektfKeNdgwvImdEj5C3TWWaL7wi0Hbn2jsv5sWn6Ug'
+access_token = '772065071774179328-0zLTuQDKMZ3lVlZEjoatGC9M1hBVZIQ'
+access_token_secret = 'E7JTCs9kKp0O11QjCOSQeUbDwx2nskjRpqjF1kbqs8Fcc'
 global bot
 global TOKEN
 TOKEN = bot_token
